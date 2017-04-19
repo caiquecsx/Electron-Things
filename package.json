@@ -1,0 +1,14 @@
+{
+  "name": "electron-zero",
+  "version": "1.0.0",
+  "description": "starting electron dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Caique Campos <caique.c.s@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
